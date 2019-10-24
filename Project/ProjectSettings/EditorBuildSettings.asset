@@ -20,3 +20,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ActionScene.unity
     guid: 00000000000000000000000000000000
+  m_configObjects: {}

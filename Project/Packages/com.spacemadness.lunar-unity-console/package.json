@@ -1,0 +1,8 @@
+{
+  "description": "Lunar Unity Console",
+  "displayName": "Lunar Unity Console",
+  "license": "MIT",
+  "name": "com.spacemadness.lunar-unity-console",
+  "version": "0.0.1",
+  "type": "library"
+}
